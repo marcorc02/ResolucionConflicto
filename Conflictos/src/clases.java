@@ -1,4 +1,4 @@
 
 public class clases {
-	public String param = "";
+	public String param = "Hola";
 }
